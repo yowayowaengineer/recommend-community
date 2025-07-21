@@ -1,12 +1,13 @@
 <template>
   <div class="h-screen w-screen flex justify-center items-center">
     <div class="glass">
-      <h1>Glassmorphism</h1>
+      <h1>1. タイトルとかTitle...</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia
         laborum inventore nulla illum, eaque sint culpa. Repellat aliquid nemo
         vero nesciunt placeat voluptate aspernatur sapiente? Dolorum
         necessitatibus officiis nobis laboriosam!
+        あいうえおかきくけこさしすせそたちつてと
       </p>
     </div>
   </div>
@@ -30,6 +31,7 @@
 .glass h1 {
   text-align: center;
   color: #fff;
+  -webkit-text-stroke: 1px black;
   font-size: 50px;
   font-weight: bold;
   letter-spacing: 0.06em;
@@ -38,6 +40,7 @@
 .glass p {
   margin-top: 20px;
   color: #fff;
+  text-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
   font-size: 16px;
 }
 </style>
