@@ -16,6 +16,7 @@
     "nuxt": "^4.0.0",
     "swiper": "^11.2.10",
     "vue": "^3.5.17",
+    "vue-responsive-video-background-player": "^2.4.1",
     "vue-router": "^4.5.1"
   },
   "devDependencies": {
