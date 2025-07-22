@@ -41,7 +41,7 @@ defineProps<{
 
 .glass div {
   color: #fff;
-  text-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
-  font-size: 24px;
+  text-shadow: 0 0 20px rgba(0, 0, 0, 0.9);
+  font-size: 32px;
 }
 </style>
